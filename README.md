@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adrian! <br/> <a href="https://www.linkedin.com/in/adrian-constantinescu//">Adrian Constantinescu</a></h1>
+<h1>Hi, I'm Adrian! <br/> <a href="https://www.linkedin.com/in/adrian-constantinescu/">Adrian Constantinescu</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
