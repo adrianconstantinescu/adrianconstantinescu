@@ -9,7 +9,7 @@
 <h2>📜 Certifications</h2>
 
 - [Microsoft Certifications](http://tinyurl.com/MicrosoftCerts001)
-
+- [Fortinet Certifications](http://tinyurl.com/FortinetCerts)
 
 <h2> 🤳 Connect with me:</h2>
 
